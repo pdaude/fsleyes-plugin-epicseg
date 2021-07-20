@@ -1,0 +1,10 @@
+README.md
+setup.py
+fsleyes_plugin_epicseg/__init__.py
+fsleyes_plugin_epicseg/epicseg.py
+fsleyes_plugin_epicseg/threadfcn.py
+fsleyes_plugin_epicseg.egg-info/PKG-INFO
+fsleyes_plugin_epicseg.egg-info/SOURCES.txt
+fsleyes_plugin_epicseg.egg-info/dependency_links.txt
+fsleyes_plugin_epicseg.egg-info/entry_points.txt
+fsleyes_plugin_epicseg.egg-info/top_level.txt

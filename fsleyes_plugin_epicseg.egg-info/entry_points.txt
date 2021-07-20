@@ -1,0 +1,3 @@
+[fsleyes_controls]
+EPIC segmentation = fsleyes_plugin_epicseg:PluginEpic
+
